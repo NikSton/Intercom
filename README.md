@@ -1,2 +1,2 @@
 # Intercom
-Alert to players - Works with all modes!
+Example: https://www.youtube.com/watch?v=PEkLei_rCyo
